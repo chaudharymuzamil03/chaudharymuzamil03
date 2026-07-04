@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muzamil Munir</h1>
+<h1 align="center">Hi, I'm Muzamil Munir</h1>
 <h3 align="center">Software Engineer | Full Stack Developer | Cloud & DevOps Enthusiast | AI Explorer</h3>
 
 <p align="center">
