@@ -142,7 +142,7 @@ Collection of modern Flutter mobile applications using Firebase and SQLite.
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Cloud & Architecture
 
 - Kubernetes
 - AWS Solutions Architecture
